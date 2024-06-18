@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @AR-Newbie
+- 👀 I’m interested in Machine Learning and Game developing
+- 🌱 I’m currently learning Python and has previously learned C++ (not so much, also I know you would think I am stupid but, uhmm... Yeah I am stupid.)
+- 💞️ I’m looking to collaborate on nothing
+- 📫 How to reach me on Discord, Profile: ar_a_1
+- 😄 Pronouns: I don't care (I have no time to personally create an about me section, I am working on the default)
+- ⚡ Fun fact: I am an introvert (very introverted) (maybe that's a fun fact! I guess....)
